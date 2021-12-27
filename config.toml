@@ -240,10 +240,6 @@ primaryColor = "#BF4E30"
         enable = true
 
         [[params.social.list]]
-        icon = "fab fa-github-square"
-        url = "//github.com/luketurcotte"
-        title = "luketurcotte"
-        [[params.social.list]]
         icon = "fab fa-twitter-square"
         url = "//twitter.com/luketurcotte"
         title = "@luketurcotte"
