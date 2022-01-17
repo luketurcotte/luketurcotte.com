@@ -12,8 +12,8 @@ googleAnalytics = "UA-137260897-1"
 
 
 [params]
-    #author = "CowboySmall"
-    #description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    #author = "Luke Turcotte"
+    #description = "Ottawa-based health services research"
 
 
 #primaryColor = "#54B689"
@@ -35,22 +35,6 @@ primaryColor = "#BF4E30"
 
 
 
-    [params.contact]
-        enable = false
-        location = "New York"
-
-        [[params.contact.list]]
-        icon = "fas fa-envelope-square"
-        url = "mailto:#"
-        text = "luke@turcotte.com"
-        [[params.contact.list]]
-        icon = "fab fa-github-square"
-        url = "//github.com/luketurcotte"
-        title = "luketurcotte"
-        [[params.contact.list]]
-        icon = "fab fa-twitter-square"
-        url = "//twitter.com/luketurcotte"
-        title = "@luketurcotte"
 
 
 
@@ -205,12 +189,12 @@ primaryColor = "#BF4E30"
 
 
     [params.projects]
-        enable = false
+        enable = true
 
         [[params.projects.list]]
-        title = "Project Lorem Ipsum"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        title = "COVID-19 in Ontario LTC Homes"
+        url = "//covid19ltc.ca"
+        tagline = "Daily Dashboard that displays publicly-reported long-term care home COVID-19 outbreak information with facility-level attribute data (e.g., profit status, chain size, design standard, quality of care)."
 
 
 
@@ -234,7 +218,7 @@ primaryColor = "#BF4E30"
 	[[params.information.list.items]]
 	details = "**Turcotte, L. A.**, Poss, J., Fries, B., & Hirdes, J. P. (2019). *An Overview of International Staff Time Measurement Validation Studies of the RUG-III Case-mix System*. Health services insights, 12, 1178632919827926. https://doi.org/10.1177/1178632919827"
         [[params.information.list.items]]
-        details = "For a full list of Luke's publications please visit [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=luke+turcotte&sort=date)"
+        details = "Visit [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=luke+turcotte&sort=date) for all publications"
 
     [params.social]
         enable = true
