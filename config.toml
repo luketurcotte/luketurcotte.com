@@ -194,7 +194,7 @@ primaryColor = "#BF4E30"
         [[params.projects.list]]
         title = "COVID-19 in Ontario LTC Homes"
         url = "//covid19ltc.ca"
-        tagline = "Daily Dashboard that displays publicly-reported long-term care home COVID-19 outbreak information with facility-level attribute data (e.g., profit status, chain size, design standard, quality of care)."
+        tagline = "Dashboard that displays up to date long-term care home COVID-19 outbreak information with facility-level attribute data (e.g., profit status, chain size, design standard, quality of care)."
 
 
 
