@@ -79,6 +79,10 @@ primaryColor = "#BF4E30"
         enable = true
 
         [[params.education.list]]
+        degree = "Health System Impact Fellowship"
+        university = "Canadian Institute for Health Information & University of Waterloo"
+        dates = "2019 - 2021"
+        [[params.education.list]]
         degree = "PhD in Aging, Health and Well-being"
         university = "University of Waterloo"
         dates = "2014 - 2018"
@@ -170,10 +174,10 @@ primaryColor = "#BF4E30"
 
 
         [[params.experience.list]]
-        title = "Postdoctoral Fellow"
-        dates = "2021 - Present"
+        title = "Affiliate Investigator"
+        dates = "2022 - Present"
         company = "Bruyère Research Institute"
-        details = "Leading and supporting health services research for older adults in home, long-term care, and post-acute care using clinical and administrative health databases."
+        details = "Health services research for older adults in home care, long-term care, and post-acute care using clinical and administrative health databases."
 
         [[params.experience.list]]
         title = "Associate Fellow"
