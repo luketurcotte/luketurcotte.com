@@ -219,9 +219,9 @@ primaryColor = "#BF4E30"
     [params.information]
         enable = true
 	  [[params.information.list]]
-	details = "**Turcotte, L. A.**, McArthur, C., Poss, J. W., Heckman, G., Mitchell, L., Morris, J., Foebel, A. D., & Hirdes, J. P. (2023). Long-Term Care Resident Health and Quality of Care During the COVID-19 Pandemic: A Synthesis Analysis of Canadian Institute for Health Information Data Tables. Health Services Insights, 16, 11786329231174745. https://doi.org/10.1177/11786329231174745"
+	details = "**Turcotte, L. A.**, McArthur, C., Poss, J. W., Heckman, G., Mitchell, L., Morris, J., Foebel, A. D., & Hirdes, J. P. (2023). *Long-Term Care Resident Health and Quality of Care During the COVID-19 Pandemic: A Synthesis Analysis of Canadian Institute for Health Information Data Tables*. Health Services Insights, 16, 11786329231174745. https://doi.org/10.1177/11786329231174745"
         [[params.information.list]]
-	details = "**Turcotte, L. A.**, Heckman, G., Rockwood, K., Vetrano, D. L., Hébert, P., McIsaac, D. I., Rhynold, E., Mitchell, L., Mowbray, F. I., Larsen, R. T., & Hirdes, J. P. (2023). External validation of the hospital frailty risk score among hospitalised home care clients in Canada: A retrospective cohort study. Age and Ageing, 52(2), afac334. https://doi.org/10.1093/ageing/afac334"
+	details = "**Turcotte, L. A.**, Heckman, G., Rockwood, K., Vetrano, D. L., Hébert, P., McIsaac, D. I., Rhynold, E., Mitchell, L., Mowbray, F. I., Larsen, R. T., & Hirdes, J. P. (2023). *External validation of the hospital frailty risk score among hospitalised home care clients in Canada: A retrospective cohort study*. Age and Ageing, 52(2), afac334. https://doi.org/10.1093/ageing/afac334"
         [[params.information.list.items]]
         details = "**Turcotte, L. A.**, Zalucky, A. A., Stall, N. M., Downar, J., Rockwood, K., Theou, O., McArthur, C., & Heckman, G. (2021). *Baseline Frailty as a Predictor of Survival After Critical Care: A Retrospective Cohort Study of Older Adults Receiving Home Care in Ontario, Canada*. Chest, 160(6), 2101–2111. https://doi.org/10.1016/j.chest.2021.06.009"
         [[params.information.list.items]]
