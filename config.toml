@@ -159,7 +159,7 @@ primaryColor = "#BF4E30"
 
     [params.summary]
         enable = true
-        text = "Luke Turcotte is a health services researcher based in St. Catharines, Ontario. His research is centred around the development and application of health information systems to support clinical decision-making and improve the quality of care for older adults with complex health conditions across the continuum of care."
+        text = "Luke Turcotte is a health services researcher in the Department of Health Sciences at Brock University. His research is centred around the development and application of health information systems to support clinical decision-making and improve the quality of care for older adults with complex health conditions across the continuum of care."
 
 
 
@@ -169,7 +169,7 @@ primaryColor = "#BF4E30"
  	 [[params.experience.list]]
         title = "Assistant Professor"
         dates = "2023 - Present"
-        company = "Brock University, Department of Health Sciences"
+        company = "Brock University"
         details = "Health services research and evaluation among frail and medically complex older adult patient populations. Masters of Applied Gerontology program core faculty member." 
 
 
