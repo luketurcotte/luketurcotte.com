@@ -159,18 +159,18 @@ primaryColor = "#BF4E30"
 
     [params.summary]
         enable = true
-        text = "Luke Turcotte is a health systems researcher based in Ottawa, Canada. His research is centred around the development and application of health information systems to support clinical decision-making and improve the quality of care for older adults with complex health conditions across the continuum of care."
+        text = "Luke Turcotte is a health services researcher based in St. Catharines, Ontario. His research is centred around the development and application of health information systems to support clinical decision-making and improve the quality of care for older adults with complex health conditions across the continuum of care."
 
 
 
     [params.experience]
         enable = true
 
-        [[params.experience.list]]
-        title = "Senior Methodologist"
-        dates = "2021 - Present"
-        company = "CIHI"
-        details = "Development and evaluation of new methodologies to describe the health and well-being of Canadians. Organization-wide methodological support." 
+ 	 [[params.experience.list]]
+        title = "Assistant Professor"
+        dates = "2023 - Present"
+        company = "Brock University, Department of Health Sciences"
+        details = "Health services research and evaluation among frail and medically complex older adult patient populations. Masters of Applied Gerontology program core faculty member." 
 
 
         [[params.experience.list]]
@@ -190,6 +190,13 @@ primaryColor = "#BF4E30"
         dates = "2021 - Present"
         company = "University of Waterloo"
         details = "Collaboration with health system experts on research related to quality of care for older adults with complex health conditions across the continuum of care."
+
+         [[params.experience.list]]
+        title = "Senior Researcher & Methodologist"
+        dates = "2020 - 2022"
+        company = "CIHI"
+        details = "Development and evaluation of new methodologies to describe the health and well-being of Canadians. Organization-wide methodological support." 
+
 
 
     [params.projects]
@@ -211,14 +218,14 @@ primaryColor = "#BF4E30"
 
     [params.information]
         enable = true
-
+	  [[params.information.list]]
+	details = "**Turcotte, L. A.**, McArthur, C., Poss, J. W., Heckman, G., Mitchell, L., Morris, J., Foebel, A. D., & Hirdes, J. P. (2023). Long-Term Care Resident Health and Quality of Care During the COVID-19 Pandemic: A Synthesis Analysis of Canadian Institute for Health Information Data Tables. Health Services Insights, 16, 11786329231174745. https://doi.org/10.1177/11786329231174745"
         [[params.information.list]]
+	details = "**Turcotte, L. A.**, Heckman, G., Rockwood, K., Vetrano, D. L., Hébert, P., McIsaac, D. I., Rhynold, E., Mitchell, L., Mowbray, F. I., Larsen, R. T., & Hirdes, J. P. (2023). External validation of the hospital frailty risk score among hospitalised home care clients in Canada: A retrospective cohort study. Age and Ageing, 52(2), afac334. https://doi.org/10.1093/ageing/afac334"
         [[params.information.list.items]]
         details = "**Turcotte, L. A.**, Zalucky, A. A., Stall, N. M., Downar, J., Rockwood, K., Theou, O., McArthur, C., & Heckman, G. (2021). *Baseline Frailty as a Predictor of Survival After Critical Care: A Retrospective Cohort Study of Older Adults Receiving Home Care in Ontario, Canada*. Chest, 160(6), 2101–2111. https://doi.org/10.1016/j.chest.2021.06.009"
         [[params.information.list.items]]
         details = "**Turcotte, L. A.**, Daniel, I., & Hirdes, J. P. (2020). *The Post-Acute Delayed Discharge Risk Scale: Derivation and Validation With Ontario Alternate Level of Care Patients in Ontario Complex Continuing Care Hospitals*. Journal of the American Medical Directors Association, 21(4), 538–544.e1. https://doi.org/10.1016/j.jamda.2019.12.022"
-        [[params.information.list.items]]
-        details = "**Turcotte, L. A.**, Perlman, C. M., Fries, B. E., & Hirdes, J. P. (2019). *Clinical predictors of protracted length of stay in Ontario Complex Continuing Care hospitals*. BMC Health Services Research, 19(1), 218. https://doi.org/10.1186/s12913-019-4024-2"
 	[[params.information.list.items]]
 	details = "**Turcotte, L. A.**, Poss, J., Fries, B., & Hirdes, J. P. (2019). *An Overview of International Staff Time Measurement Validation Studies of the RUG-III Case-mix System*. Health services insights, 12, 1178632919827926. https://doi.org/10.1177/1178632919827"
         [[params.information.list.items]]
