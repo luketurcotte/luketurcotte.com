@@ -1,10 +1,11 @@
 # Page settings
 
-baseURL = "/"
+baseURL = "https://luketurcotte.com"
 languageCode = "en"
-title = ""
+title = "Luke Turcotte - Health Systems Researcher"
 theme = "hugo-devresume-theme"
-googleAnalytics = "UA-137260897-1"
+# Deprecated Universal Analytics - Consider migrating to GA4
+# googleAnalytics = "UA-137260897-1"
 
 
 
